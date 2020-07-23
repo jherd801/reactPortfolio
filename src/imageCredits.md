@@ -1,0 +1,3 @@
+industrial image credit - Image by <a href="https://pixabay.com/users/voltamax-60363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1636390">Yerson Retamal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1636390">Pixabay</a>
+
+programming image credit - Image by <a href="https://pixabay.com/users/200degrees-2051452/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1653351">200 Degrees</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1653351">Pixabay</a>

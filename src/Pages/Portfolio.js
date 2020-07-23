@@ -1,12 +1,19 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import "./style.css"
 
 
 function Portfolio() {
   return (
-    <div className="navbar navbar-light bg-dark">
-            <button><Link to="/portfolio/healthsafety">Health and Safety</Link></button>
-            <button><Link to="/portfolio/webdev">Web Development</Link></button>
+    <div className="row">
+      <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 imgContainer">
+        <h3>Health and Safety Portfolio</h3>
+        <Link to="/portfolio/healthsafety"><img src={require('../assets/HSE.jpg')} alt="HSE pic"/></Link>
+      </div>
+      <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 imgContainer">
+        <h3>Web Development Portfolio</h3>
+        <Link to="/portfolio/webdev"><img src={require('../assets/Web.png')} alt="Coding pic"/></Link>
+      </div>
     </div>
 )
   };
