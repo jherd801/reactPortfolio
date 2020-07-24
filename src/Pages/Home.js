@@ -6,6 +6,9 @@ const HOME = () => (
     <p>
       Hey shitbird
     </p>
+    <div>
+      <img src={require('../assets/profilePic.jpg')} alt="Coding pic"/>
+    </div>
   </div>
 );
 

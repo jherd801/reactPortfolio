@@ -10,3 +10,8 @@ nav {
 a {
     color: ivory
 }
+
+.links {
+    margin: 0px;
+    width: 400px
+}
