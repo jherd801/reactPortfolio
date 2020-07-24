@@ -7,6 +7,7 @@ import HealthSafety from "./Pages/HealthSafety"
 import WebDev from "./Pages/WebDev"
 import Navbar from "./Components/Navbar/Navbar"
 import Header from "./Components/Header/Header"
+import Footer from "./Components/Footer/Footer"
 import './App.css';
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route exact path="/portfolio/webdev" component={WebDev} />
         <Route exact path="/contact" component={Contact} />
         </div>
+      <Footer />
       </div>
     </Router>
   );
