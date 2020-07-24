@@ -3,10 +3,10 @@ import { SocialIcon } from 'react-social-icons';
 import "./style.css"
 
 const Contact = () => (
-    <div>
+  <div>
     <h1>CONTACT</h1>
     <p>
-      PLACEHOLDER FOR CONTACT CONTENT
+      Check me out on Linkedin, Github, or send me an email with the buttons below
     </p>
     <div className="row">
       <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 socialIcon">
