@@ -29,8 +29,8 @@ function App() {
         <Route exact path="/portfolio/webdev" component={WebDev} />
         <Route exact path="/contact" component={Contact} />
         </div>
-      <Footer />
       </div>
+      <Footer />
     </Router>
   );
 }

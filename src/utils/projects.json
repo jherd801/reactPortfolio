@@ -5,7 +5,7 @@
         "description": "A tool that allows users to plan their day by entering tasks and appointments into hourly blocks. Data persists in the browser through the use of local storage, with conditional formatting applied to indicate the current hour block.",
         "liveLink": "https://jherd801.github.io/homework5/",
         "repoLink": "https://github.com/jherd801/homework5",
-        "screenshot": "../projectScreenshots/plannerScreenshot.png"
+        "screenshot": "../../public/projectScreenshots/plannerScreenshot.png"
     },
     {
         "id": 2,
