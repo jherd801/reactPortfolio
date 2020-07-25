@@ -2,7 +2,7 @@
 
 A portfolio site to showcase my work both as a health and safety professional, and as a web developer in training. 
 
-<img src="https://github.com/jherd801/reactPortfolio/blob/master/public/projectScreenshots/appScreenshot.png>
+<img src="https://github.com/jherd801/reactPortfolio/blob/master/public/projectScreenshots/appScreenshot.png" alt="Project Screenshot" max-height="400px">
 
 ## Getting Started
 
