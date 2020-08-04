@@ -1,7 +1,7 @@
 import React from 'react';
 
 import ProjectCard from '../ProjectCard/ProjectCard';
-import ProjectData from '../../utils/projects.json';
+import ProjectData from '../../utils/projects.js';
 
 function ProjectContainer() {
     const projects = ProjectData

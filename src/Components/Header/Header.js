@@ -4,7 +4,7 @@ import './style.css';
 
 function Header() {
     return (
-        <h1>Josh Herd</h1>
+        <h1>Josh Herd MS, CIH, CSP</h1>
     )
 }
 
