@@ -44,7 +44,7 @@ No instructions necessary
 
 ## Authors
 
-* **Josh Herd** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Josh Herd**
 
 
 ## License
