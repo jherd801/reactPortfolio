@@ -1,25 +1,31 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.e9b9998d.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.d7890a03.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.d7890a03.chunk.js.map",
+    "main.js": "/reactPortfolio/static/js/main.79e19fa2.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.79e19fa2.chunk.js.map",
     "runtime-main.js": "/reactPortfolio/static/js/runtime-main.506f4783.js",
     "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.506f4783.js.map",
-    "static/js/2.67ceeee0.chunk.js": "/reactPortfolio/static/js/2.67ceeee0.chunk.js",
-    "static/js/2.67ceeee0.chunk.js.map": "/reactPortfolio/static/js/2.67ceeee0.chunk.js.map",
+    "static/js/2.2eb4215b.chunk.js": "/reactPortfolio/static/js/2.2eb4215b.chunk.js",
+    "static/js/2.2eb4215b.chunk.js.map": "/reactPortfolio/static/js/2.2eb4215b.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.62bf507c716c0610c43daa324a4abe26.js": "/reactPortfolio/precache-manifest.62bf507c716c0610c43daa324a4abe26.js",
+    "precache-manifest.e48b4a8ca56b4553acfe89e44efa924a.js": "/reactPortfolio/precache-manifest.e48b4a8ca56b4553acfe89e44efa924a.js",
     "service-worker.js": "/reactPortfolio/service-worker.js",
     "static/css/main.e9b9998d.chunk.css.map": "/reactPortfolio/static/css/main.e9b9998d.chunk.css.map",
-    "static/js/2.67ceeee0.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.67ceeee0.chunk.js.LICENSE.txt",
+    "static/js/2.2eb4215b.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.2eb4215b.chunk.js.LICENSE.txt",
     "static/media/HSE.jpg": "/reactPortfolio/static/media/HSE.245aa9fd.jpg",
     "static/media/Web.png": "/reactPortfolio/static/media/Web.48a79dba.png",
-    "static/media/resume.pdf": "/reactPortfolio/static/media/resume.7dca6e37.pdf"
+    "static/media/budgetTracker.png": "/reactPortfolio/static/media/budgetTracker.57c8bd4f.png",
+    "static/media/noteTakerScreenshot.png": "/reactPortfolio/static/media/noteTakerScreenshot.8a1a8a25.png",
+    "static/media/plannerScreenshot.png": "/reactPortfolio/static/media/plannerScreenshot.116cc9ea.png",
+    "static/media/resume.pdf": "/reactPortfolio/static/media/resume.7dca6e37.pdf",
+    "static/media/the-sloshed-guide-screenshot.png": "/reactPortfolio/static/media/the-sloshed-guide-screenshot.987134e1.png",
+    "static/media/weatherScreenshot.png": "/reactPortfolio/static/media/weatherScreenshot.9784dbd3.png",
+    "static/media/workoutTracker.png": "/reactPortfolio/static/media/workoutTracker.b0daba49.png"
   },
   "entrypoints": [
     "static/js/runtime-main.506f4783.js",
-    "static/js/2.67ceeee0.chunk.js",
+    "static/js/2.2eb4215b.chunk.js",
     "static/css/main.e9b9998d.chunk.css",
-    "static/js/main.d7890a03.chunk.js"
+    "static/js/main.79e19fa2.chunk.js"
   ]
 }
